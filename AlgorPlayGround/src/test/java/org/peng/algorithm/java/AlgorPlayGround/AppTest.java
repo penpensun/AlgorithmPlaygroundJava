@@ -1,4 +1,4 @@
-package org.peng.algorithm;
+package org.peng.algorithm.java.AlgorPlayGround;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
