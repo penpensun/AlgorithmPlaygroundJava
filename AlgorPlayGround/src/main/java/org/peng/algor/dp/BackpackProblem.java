@@ -1,4 +1,4 @@
-package org.peng.algor.insertion;
+package org.peng.algor.dp;
 import java.io.*;
 
 public class BackpackProblem {
